@@ -12,6 +12,11 @@ Live Site: https://thunderchat-app.onrender.com/
 
 Intro Video: https://drive.google.com/file/d/1KI6akTh44xwIfCRlnZNlUAEQC5nKLcNK/view?usp=sharing
 
+# Video Demo
+
+https://github.com/ritesh1191/Source-code-ThunderChat/assets/101041207/dd83e4ec-bd0e-4473-bb57-001c1ac26e8f
+
+
 # Images
 
 - Login Page
