@@ -2,22 +2,24 @@
 
 ThunderChat is a Full Stack MERN Realtime Chatting web application.
 
-# Tech Stack
+## Tech Stack
+
 - Client: React JS
 - Server: Node JS, Express JS
 - Database: Mongo DB
 
-# Demo
+## Demo
+
 Live Site: https://thunderchat-app.onrender.com/
 
 Intro Video: https://drive.google.com/file/d/1KI6akTh44xwIfCRlnZNlUAEQC5nKLcNK/view?usp=sharing
 
-# Video Demo
+## Video Demo
 
-https://github.com/ritesh1191/Source-code-ThunderChat/assets/101041207/dd83e4ec-bd0e-4473-bb57-001c1ac26e8f
+https://github.com/user-attachments/assets/a161afa6-015f-45be-86ea-e03a3c69d1d7
 
 
-# Images
+## Images
 
 - Login Page
   
@@ -41,7 +43,7 @@ https://github.com/ritesh1191/Source-code-ThunderChat/assets/101041207/dd83e4ec-
 Clone the project
 
 ```bash
-  git clone https://github.com/ritesh1191/Source-code-ThunderChat
+  git clone https://github.com/YOUR_USERNAME/Source-code-ThunderChat.git
 ```
 
 Go to the project directory
